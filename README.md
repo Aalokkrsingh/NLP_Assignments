@@ -35,7 +35,7 @@ NLP_Assignments/
 │   └── web_scraping.ipynb
 │
 ├── Assignment_02/
-│   └── ...
+│   └── Data_Cleaning_and_Preprocessing.ipynb
 │
 └── README.md
 
@@ -55,7 +55,21 @@ A basic implementation of retrieving webpage content and extracting information 
 * lxml
 * Data Extraction
 
-### Assignment 02 — Coming Soon
+### Assignment 02 — Data Cleaning and Preprocessing.ipynb
+
+### Assignment 02 — Data Cleaning and Preprocessing
+
+This assignment covers the basic steps involved in cleaning and preprocessing text data for Natural Language Processing (NLP) tasks.
+
+**Concepts / Tools Used:**
+
+- Text cleaning
+- Tokenization
+- Punctuation removal
+- Stop-word removal
+- Spelling correction
+- Text preprocessing
+- Python NLP libraries
 
 More assignments and practical implementations will be added as the course progresses.
 
