@@ -55,8 +55,6 @@ A basic implementation of retrieving webpage content and extracting information 
 * lxml
 * Data Extraction
 
-### Assignment 02 — Data Cleaning and Preprocessing.ipynb
-
 ### Assignment 02 — Data Cleaning and Preprocessing
 
 This assignment covers the basic steps involved in cleaning and preprocessing text data for Natural Language Processing (NLP) tasks.
